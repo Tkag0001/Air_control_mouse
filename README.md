@@ -27,10 +27,11 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Instruction manual
-<img src="images/image.png" width = 15%>
-<img src="images/image-1.png" width = 15%>
-<img src="images/image-2.png" width = 15%>
-<img src="images/image-3.png" width = 15%>
-<img src="images/image-4.png" width = 15%>
-
+<p float="left">
+<img src="images/image.png" width = 17%>
+<img src="images/image-1.png" width = 17%>
+<img src="images/image-2.png" width = 17%>
+<img src="images/image-3.png" width = 17%>
+<img src="images/image-4.png" width = 17%>
+</p>
 normal &emsp;|&emsp;left click&emsp;|&emsp;right click&emsp;|&emsp;scroll down&emsp;|&emsp;scroll up&emsp;
